@@ -1,3 +1,4 @@
+pyrogram
 pyrofork==2.3.43 
 https://codeload.github.com/Jisshubot/pyrogram/zip/refs/heads/dev 
 tgcrypto 
@@ -50,3 +51,4 @@ apscheduler
 pyshorteners 
 pyromod 
 colorama
+
